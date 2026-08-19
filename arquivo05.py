@@ -1,0 +1,1 @@
+print('Versão 5.0')
